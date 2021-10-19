@@ -18,7 +18,7 @@ hi, i'm  Anshul Dixit, currently I am studying at the University Of Warwick in B
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](anshuldixit589@gmail.com) :)
+- 💼 any freelance work? do reach, [mailto:] anshuldixit589@gmail.com
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
