@@ -4,7 +4,7 @@
 <a href="https://twitter.com/dhoopwalikhidki">
   <img align="left" alt="Anshul Dixit | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/anshuldixit94
+<a href="https://www.linkedin.com/in/anshuldixit94">
   <img align="left" alt="Anshul's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
