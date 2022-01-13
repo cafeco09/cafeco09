@@ -30,8 +30,8 @@ Hello, i'm  Anshul Dixit, currently I am studying at the University Of Warwick i
 <!--START_SECTION:waka-->
 ```text
 R            11 hrs 18 mins  ████████████████████▓░░░░   82.64 % 
-Python       1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-MATLAB       45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python       5 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+MATLAB       55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 ```
 <!--END_SECTION:waka-->
