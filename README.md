@@ -26,16 +26,6 @@ Hello, i'm  Anshul Dixit, currently I am studying at the University Of Warwick i
 
 
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-R            10 hrs 18 mins  ████████████████████▓░░░░   82.64 % 
-Python       15 hrs 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   92.79 % 
-MATLAB       55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-
-```
-<!--END_SECTION:waka-->
-
 
 
 
