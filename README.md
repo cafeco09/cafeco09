@@ -13,8 +13,7 @@
 
 
 
-Hello, i'm  Anshul Dixit, currently I am studying at the University Of Warwick in Behavioral and Data Science program. My aim is to augment in Data driven decision making skills across various disciplines. I am a full fledged learner of R, Python and MATLAB and I have over 4.5 years of experience in IT industry spanning accross Business analysis, Associate Consultant - in Cards and Payments ( Finacial services) 
-
+Hello, I'm  Anshul Dixit, currently, I am a graduate of the University Of Warwick in Behavioral and Data Science. My aim is to augment in Data-driven decision-making skills across various disciplines. I am a full-fledged learner of R, Python and MATLAB and I have over 5+ years of experience in the IT industry.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
